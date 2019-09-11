@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactarTexto", "CompactarTexto\CompactarTexto.csproj", "{09E72A93-AA24-47F5-A563-7328B1ED9B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E72A93-AA24-47F5-A563-7328B1ED9B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E72A93-AA24-47F5-A563-7328B1ED9B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E72A93-AA24-47F5-A563-7328B1ED9B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E72A93-AA24-47F5-A563-7328B1ED9B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8089B645-F175-48F4-BBC9-7928581D4349}
+	EndGlobalSection
+EndGlobal

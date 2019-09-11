@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio do fluxograma", "Exercicio do fluxograma\Exercicio do fluxograma.csproj", "{EBE76A13-BAB7-4233-AFA2-3E13A7AB1E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE76A13-BAB7-4233-AFA2-3E13A7AB1E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE76A13-BAB7-4233-AFA2-3E13A7AB1E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE76A13-BAB7-4233-AFA2-3E13A7AB1E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE76A13-BAB7-4233-AFA2-3E13A7AB1E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E370414-C938-4F72-8FD8-015F37E08FBF}
+	EndGlobalSection
+EndGlobal

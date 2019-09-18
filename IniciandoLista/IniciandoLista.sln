@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachNaLista", "ForeachNaLista\ForeachNaLista.csproj", "{8C05111B-AA01-47E3-8C56-B639833A7BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosPublicos", "MetodosPublicos\MetodosPublicos.csproj", "{04DE91B7-02C0-4518-AF58-E352898CDDF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversao", "conversao\conversao.csproj", "{A8D7C2D4-0273-4FBF-AFD7-71AD07AA736A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorMonetario", "ConversorMonetario\ConversorMonetario.csproj", "{9BDF3F54-A311-47A5-88C3-F60E8E9A36A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeConversao", "AtividadeConversao\AtividadeConversao.csproj", "{6A99E066-4714-4C0D-AD22-69F61BB07CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeCriancaoArvore", "AtividadeCriancaoArvore\AtividadeCriancaoArvore.csproj", "{B12BFD58-48B0-44D2-9ABC-BDDB09CD9214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C05111B-AA01-47E3-8C56-B639833A7BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C05111B-AA01-47E3-8C56-B639833A7BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C05111B-AA01-47E3-8C56-B639833A7BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C05111B-AA01-47E3-8C56-B639833A7BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DE91B7-02C0-4518-AF58-E352898CDDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DE91B7-02C0-4518-AF58-E352898CDDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DE91B7-02C0-4518-AF58-E352898CDDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DE91B7-02C0-4518-AF58-E352898CDDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D7C2D4-0273-4FBF-AFD7-71AD07AA736A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D7C2D4-0273-4FBF-AFD7-71AD07AA736A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D7C2D4-0273-4FBF-AFD7-71AD07AA736A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D7C2D4-0273-4FBF-AFD7-71AD07AA736A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDF3F54-A311-47A5-88C3-F60E8E9A36A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDF3F54-A311-47A5-88C3-F60E8E9A36A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDF3F54-A311-47A5-88C3-F60E8E9A36A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDF3F54-A311-47A5-88C3-F60E8E9A36A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A99E066-4714-4C0D-AD22-69F61BB07CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A99E066-4714-4C0D-AD22-69F61BB07CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A99E066-4714-4C0D-AD22-69F61BB07CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A99E066-4714-4C0D-AD22-69F61BB07CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12BFD58-48B0-44D2-9ABC-BDDB09CD9214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12BFD58-48B0-44D2-9ABC-BDDB09CD9214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12BFD58-48B0-44D2-9ABC-BDDB09CD9214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12BFD58-48B0-44D2-9ABC-BDDB09CD9214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB25CBD7-74FC-403D-8530-1154F1754764}
+	EndGlobalSection
+EndGlobal

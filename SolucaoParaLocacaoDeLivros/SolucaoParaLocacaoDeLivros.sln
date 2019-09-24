@@ -3,29 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocacaoBiblioteca", "LocacaoBiblioteca\LocacaoBiblioteca.csproj", "{E3105FD7-28F0-459D-B261-55B3ADA65B1D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceBiblioteca", "InterfaceBiblioteca\InterfaceBiblioteca.csproj", "{4BC71351-5473-4355-B7E1-18999D3CFEB8}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E3105FD7-28F0-459D-B261-55B3ADA65B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3105FD7-28F0-459D-B261-55B3ADA65B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3105FD7-28F0-459D-B261-55B3ADA65B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3105FD7-28F0-459D-B261-55B3ADA65B1D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4BC71351-5473-4355-B7E1-18999D3CFEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BC71351-5473-4355-B7E1-18999D3CFEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BC71351-5473-4355-B7E1-18999D3CFEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BC71351-5473-4355-B7E1-18999D3CFEB8}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9D5A9459-AA05-4083-8259-1184F4BD2A59}
+		SolutionGuid = {5771567D-2FFE-4ACD-AF73-EF8786FC93E4}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CestoDeFrutas", "CestoDeFrutas\CestoDeFrutas.csproj", "{ADAF4F49-6A00-4B41-B04F-8BE90E26C17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListandoPessoa", "ListandoPessoa\ListandoPessoa.csproj", "{02EB361E-3511-4EC0-B507-EEE723CB66D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAF4F49-6A00-4B41-B04F-8BE90E26C17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF4F49-6A00-4B41-B04F-8BE90E26C17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF4F49-6A00-4B41-B04F-8BE90E26C17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF4F49-6A00-4B41-B04F-8BE90E26C17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EB361E-3511-4EC0-B507-EEE723CB66D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EB361E-3511-4EC0-B507-EEE723CB66D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EB361E-3511-4EC0-B507-EEE723CB66D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EB361E-3511-4EC0-B507-EEE723CB66D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A58ADAA1-B874-4B84-8750-0CF473885E33}
+	EndGlobalSection
+EndGlobal

@@ -9,25 +9,32 @@ namespace LocacaoBiblioteca.Controller
 {
     public class LivrosController
     {
-
-    public class LivrosControler
+        public LivrosController()
         {
-            public LivrosControler()
+            Livros = new List<Livro>();
+            Livros.Add(new Livro()
             {
-                Livros = new List<Livro>();
-
-                Livros.Add(new Livro()
-                {
-                    Nome = "Meu Primeiro Livro"
-                });
-
-                Livros.Add(new Livro()
-                {
-                    Nome = "Meu Segundo Livro"
-                });
-            }
-            public List<Livro> Livros { get; set; }
+                Nome = "Meu Primeiro Livro"
+            });
+            Livros.Add(new Livro()
+            {
+                Nome = "Meu Segundo Livro"
+            });
         }
+        /// <summary>
+        /// Aqui crio uma propriedade para acessar a lista e livros disponíveis no sistema
+        /// </summary>
+        public List<Livro> Livros { get; set; }
 
+        public void AdicionarLivro(Livro parametrolivro)
+        {
+
+        }
+        //Adicionamos o livro em nossa lista..
+        //Livros.Add(parametroLivro);
     }
 }
+
+
+
+

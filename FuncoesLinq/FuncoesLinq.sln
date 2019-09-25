@@ -3,31 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumLinq", "SumLinq\SumLinq.csproj", "{023E96BE-3D89-4141-B154-2C02F5EE6DBE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageLinq", "AverageLinq\AverageLinq.csproj", "{83C0AA15-8559-4775-84C5-38362C4719A1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregateLinq", "AggregateLinq\AggregateLinq.csproj", "{89A20A7C-7DC8-4849-B522-EA31595ACED0}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{023E96BE-3D89-4141-B154-2C02F5EE6DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{023E96BE-3D89-4141-B154-2C02F5EE6DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{023E96BE-3D89-4141-B154-2C02F5EE6DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{023E96BE-3D89-4141-B154-2C02F5EE6DBE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83C0AA15-8559-4775-84C5-38362C4719A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83C0AA15-8559-4775-84C5-38362C4719A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83C0AA15-8559-4775-84C5-38362C4719A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83C0AA15-8559-4775-84C5-38362C4719A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{89A20A7C-7DC8-4849-B522-EA31595ACED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89A20A7C-7DC8-4849-B522-EA31595ACED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89A20A7C-7DC8-4849-B522-EA31595ACED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89A20A7C-7DC8-4849-B522-EA31595ACED0}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

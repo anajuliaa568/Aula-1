@@ -12,12 +12,12 @@ namespace Aggregate
         {
             List<string> listaDeNomes = new List<string>()
         {
-                "Felipe",
-                "Giomar",
-                "Euricledson",
-                "Adagoberto",
-                "Ezebio",
-                "Irineudson"
+                "Ana",
+                "Karine",
+                "Tamara",
+                "Junior",
+                "Bruno",
+                "Cristiane"
         };
 
             var texto = listaDeNomes.Aggregate((nome1, nome2) => nome1 + ";\r\n" + nome2);

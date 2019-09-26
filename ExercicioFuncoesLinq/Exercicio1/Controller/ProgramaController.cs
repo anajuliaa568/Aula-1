@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exercicio1.Controller
 {
-    class ProgramaController
+    public class ProgramaController
     {
         public static List<Carros> listaCarro { get; set; } = new List<Carros>();
 

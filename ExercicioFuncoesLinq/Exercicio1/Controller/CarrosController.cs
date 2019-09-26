@@ -13,11 +13,12 @@ namespace Exercicio1.Controller
         public static void ReadExcel()
         {
 
-            OleDbConnection connect = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\hbsis\Desktop\excel.xls;" +
-      @"Extended Properties='Excel 8.0;HDR=Yes;'");
-            string comandoSql = "Select * from [Worksheet$]";
-            OleDbConnection connection = null;
-            OleDbCommand comando = new OleDbCommand(comandoSql, connection);
+            OleDbConnection connect = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB
+                       .4.0;Data Source=C:\Users\hbsis\Desktop\excel.xls;" +
+                       @"Extended Properties='Excel 8.0;HDR=Yes;'");
+                       string comandoSql = "Select * from [Worksheet$]";
+                       OleDbConnection connection = null;
+                       OleDbCommand comando = new OleDbCommand(comandoSql, connection);
             try
 
             {

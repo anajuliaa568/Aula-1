@@ -3,16 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ListagemDeCarros.Controller;
 
-namespace ListarCarrosDoAmigo
+namespace AplicacaoVisual
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CarroController cc = new CarroController();
-                 cc.GetCarros(); 
         }
     }
 }
